@@ -1,0 +1,12 @@
+{
+  "name": "repositorynew",
+  "version": "1.0.0",
+  "description": "its a simple calculator via github by desktop",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
